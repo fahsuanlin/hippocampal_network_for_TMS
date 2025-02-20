@@ -6,7 +6,13 @@ Here, we use the resting-state fMRI data from a large cohort (Human Connectome P
 
 This is a public respository for the paper to be published.
 
+##
 
+| Condition | mPFC_X | mPFC_Y | mPFC_Z | mPFC_mean | mPFC_std | mPFC_median | mPFC_IQR | PPC_X | PPC_Y | PPC_Z | PPC_mean | PPC_std | PPC_median | PPC_IQR |
+|-----------|--------|--------|--------|-----------|----------|-------------|----------|-------|-------|-------|----------|---------|------------|---------|
+| atlas     | 0      | 62     | 4      | 18.1      | 1.5      | 17.9        | 1.8      | -42   | -64   | 48    | 18.9     | 4.2     | 18.2       | 5.8     |
+| grp FC    | -9     | 53     | -2     | 11.1      | 3.1      | 11.2        | 1.5      | -41   | -69   | 33    | 6.2      | 2.9     | 5.7        | 4.4     |
+| ind FC    | -10    | 49     | 7      | 3.4       | 2.3      | 2.8         | 2.6      | -40   | -67   | 30    | 4.8      | 2.6     | 4.4        | 3.6     |
 
 ##
 
