@@ -9,6 +9,8 @@ Reference:  Lee, H.-J. et al. _Hum. Brain Mapp._ (2025)
 
 ##
 
+Maps of functional connectivity to the hippocampus using Seedmap (top) or Seed (bottom) to extract the hippocampal time series from a large cohort (n = 1,133). Color represents t statistics. Black dots are the centroids of the functional connectivity at the medial prefrontal cortex (mPFC) and posterior parietal cortex (PPC) in each individual. Centroids of the group-level functional connectivity (grp FC) at mPFC and PPC are represented by brown and purple spheres, respectively. Average of centroids of individual functional connectivity (ind FC) at mPFC and PPC are represented by green and cyan spheres, respectively. Atlas coordinates at mPFC and PPC are represented by blue and orange spheres, respectively.
+
 ![Hippocampalnetwork](images/fconn_targets_annot.png)
 
 
@@ -28,5 +30,13 @@ Right hemisphere
 | atlas     | 0      | 62     | 4      | 17.8      | 1.7      | 17.7        | 1.7      | 40    | -66   | 44    | 21.8     | 4.6     | 21.6       | 5.7     |
 | grp FC    | 10     | 56     | 2      | 8.2       | 2.4      | 7.9         | 2.3      | 45    | -60   | 27    | 5.8      | 2.9     | 5.1        | 4.0     |
 | ind FC    | 12     | 50     | 4      | 4.2       | 2.9      | 3.5         | 3.3      | 46    | -59   | 25    | 5.2      | 2.7     | 4.8        | 3.7     |
+
+
+##
+
+Penetration maps of functional connectivity using Seed (top) and Seedmap (bottom) approaches across 1,133 individuals. The color of each brain area represents the percentage of the population showing significant functional connectivity to the hippocampus.
+
+![Hippocampalnetwork](images/fconn_penetration_annot.png)
+
 
 
