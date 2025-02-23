@@ -8,6 +8,11 @@ Here, we use the resting-state fMRI data from a large cohort (Human Connectome P
 Reference:  Lee, H.-J. et al. _Hum. Brain Mapp._ (2025)
 
 ##
+
+![Hippocampalnetwork](images/fconn_targets_annot.png)
+
+
+##
 Left hemisphere
 
 | Condition | mPFC_X | mPFC_Y | mPFC_Z | mPFC_mean | mPFC_std | mPFC_median | mPFC_IQR | PPC_X | PPC_Y | PPC_Z | PPC_mean | PPC_std | PPC_median | PPC_IQR |
