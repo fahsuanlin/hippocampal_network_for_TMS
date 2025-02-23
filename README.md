@@ -9,14 +9,14 @@ Reference:  Lee, H.-J. et al. _Hum. Brain Mapp._ (2025)
 
 ##
 
-Maps of functional connectivity to the hippocampus using Seedmap (top) or Seed (bottom) to extract the hippocampal time series from a large cohort (n = 1,133). Color represents t statistics. Black dots are the centroids of the functional connectivity at the medial prefrontal cortex (mPFC) and posterior parietal cortex (PPC) in each individual. Centroids of the group-level functional connectivity (grp FC) at mPFC and PPC are represented by brown and purple spheres, respectively. Average of centroids of individual functional connectivity (ind FC) at mPFC and PPC are represented by green and cyan spheres, respectively. Atlas coordinates at mPFC and PPC are represented by blue and orange spheres, respectively.
+**Maps of functional connectivity to the hippocampus using Seedmap (top) or Seed (bottom) to extract the hippocampal time series from a large cohort (n = 1,133). ** Color represents t statistics. Black dots are the centroids of the functional connectivity at the medial prefrontal cortex (mPFC) and posterior parietal cortex (PPC) in each individual. Centroids of the group-level functional connectivity (grp FC) at mPFC and PPC are represented by brown and purple spheres, respectively. Average of centroids of individual functional connectivity (ind FC) at mPFC and PPC are represented by green and cyan spheres, respectively. Atlas coordinates at mPFC and PPC are represented by blue and orange spheres, respectively.
 
 ![Hippocampalnetwork](images/fconn_targets_annot.png)
 
 
 ##
 
-TMS target coordinates and measures (mean, median, standard deviation (Std), and interquartile range (IQR)) of the distance to TMS targets defined by atlas, group-level functional connectivity (grp FC), and individual functional connectivity (ind FC) at medial prefrontal cortex (mPFC) and posterior parietal cortex (PPC) using hippocampal time series defined by Seed and Seedmap approaches.
+**TMS target coordinates and measures** (mean, median, standard deviation (Std), and interquartile range (IQR)) of the distance to TMS targets defined by atlas, group-level functional connectivity (grp FC), and individual functional connectivity (ind FC) at medial prefrontal cortex (mPFC) and posterior parietal cortex (PPC) using hippocampal time series defined by Seed and Seedmap approaches.
 
 Left hemisphere
 
@@ -36,7 +36,7 @@ Right hemisphere
 
 ##
 
-Violin plots of the distance between an individual’s functional connectivity centroid to TMS targets defined by group-level functional connectivity (grp FC), average of individual’s functional connectivity (ind FC), and atlas coordinates (atlas) at mPFC and PPC using Seedmap (top) and Seed (bottom) approaches to describe the hippocampal time series. 
+**Violin plots of the distance** between an individual’s functional connectivity centroid to TMS targets defined by group-level functional connectivity (grp FC), average of individual’s functional connectivity (ind FC), and atlas coordinates (atlas) at mPFC and PPC using Seedmap (top) and Seed (bottom) approaches to describe the hippocampal time series. 
 
 ![Hippocampalnetwork](images/fconn_target_distributions_annot.png)
 
@@ -46,7 +46,7 @@ Violin plots of the distance between an individual’s functional connectivity c
 
 ##
 
-Penetration maps of functional connectivity using Seed (top) and Seedmap (bottom) approaches across 1,133 individuals. The color of each brain area represents the percentage of the population showing significant functional connectivity to the hippocampus.
+**Penetration maps of functional connectivity ** using Seed (top) and Seedmap (bottom) approaches across 1,133 individuals. The color of each brain area represents the percentage of the population showing significant functional connectivity to the hippocampus.
 
 ![Hippocampalnetwork](images/fconn_penetration_annot.png)
 
