@@ -15,6 +15,9 @@ Maps of functional connectivity to the hippocampus using Seedmap (top) or Seed (
 
 
 ##
+
+TMS target coordinates and measures (mean, median, standard deviation (Std), and interquartile range (IQR)) of the distance to TMS targets defined by atlas, group-level functional connectivity (grp FC), and individual functional connectivity (ind FC) at medial prefrontal cortex (mPFC) and posterior parietal cortex (PPC) using hippocampal time series defined by Seed and Seedmap approaches.
+
 Left hemisphere
 
 | Condition | mPFC_X | mPFC_Y | mPFC_Z | mPFC_mean | mPFC_std | mPFC_median | mPFC_IQR | PPC_X | PPC_Y | PPC_Z | PPC_mean | PPC_std | PPC_median | PPC_IQR |
