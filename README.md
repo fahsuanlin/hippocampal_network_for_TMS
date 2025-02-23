@@ -9,7 +9,7 @@ Reference:  Lee, H.-J. et al. _Hum. Brain Mapp._ (2025)
 
 ##
 
-**Maps of functional connectivity to the hippocampus using Seedmap (top) or Seed (bottom) to extract the hippocampal time series from a large cohort (n = 1,133). ** Color represents t statistics. Black dots are the centroids of the functional connectivity at the medial prefrontal cortex (mPFC) and posterior parietal cortex (PPC) in each individual. Centroids of the group-level functional connectivity (grp FC) at mPFC and PPC are represented by brown and purple spheres, respectively. Average of centroids of individual functional connectivity (ind FC) at mPFC and PPC are represented by green and cyan spheres, respectively. Atlas coordinates at mPFC and PPC are represented by blue and orange spheres, respectively.
+**Maps of functional connectivity to the hippocampus using Seedmap (top) or Seed (bottom) to extract the hippocampal time series from a large cohort (n = 1,133).** Color represents t statistics. Black dots are the centroids of the functional connectivity at the medial prefrontal cortex (mPFC) and posterior parietal cortex (PPC) in each individual. Centroids of the group-level functional connectivity (grp FC) at mPFC and PPC are represented by brown and purple spheres, respectively. Average of centroids of individual functional connectivity (ind FC) at mPFC and PPC are represented by green and cyan spheres, respectively. Atlas coordinates at mPFC and PPC are represented by blue and orange spheres, respectively.
 
 ![Hippocampalnetwork](images/fconn_targets_annot.png)
 
@@ -46,7 +46,7 @@ Right hemisphere
 
 ##
 
-**Penetration maps of functional connectivity ** using Seed (top) and Seedmap (bottom) approaches across 1,133 individuals. The color of each brain area represents the percentage of the population showing significant functional connectivity to the hippocampus.
+**Penetration maps of functional connectivity** using Seed (top) and Seedmap (bottom) approaches across 1,133 individuals. The color of each brain area represents the percentage of the population showing significant functional connectivity to the hippocampus.
 
 ![Hippocampalnetwork](images/fconn_penetration_annot.png)
 
