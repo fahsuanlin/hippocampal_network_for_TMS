@@ -1,4 +1,5 @@
-# hippocampal_network_for_TMS
+# The Hippocampal network for TMS from Human Connectome Project
+
 Identifying the TMS cortical targets within the hippocampal network
 Individualized transcranial magnetic stimulation (TMS) targeting using functional connectivity analysis of functional magnetic resonance imaging (fMRI) has been demonstrated to be advantageous in inducing neuroplasticity. However, how this approach can benefit modulating the episodic memory function supported by the hippocampal network remains elusive. 
 
