@@ -31,6 +31,15 @@ Right hemisphere
 | grp FC    | 10     | 56     | 2      | 8.2       | 2.4      | 7.9         | 2.3      | 45    | -60   | 27    | 5.8      | 2.9     | 5.1        | 4.0     |
 | ind FC    | 12     | 50     | 4      | 4.2       | 2.9      | 3.5         | 3.3      | 46    | -59   | 25    | 5.2      | 2.7     | 4.8        | 3.7     |
 
+##
+
+Violin plots of the distance between an individual’s functional connectivity centroid to TMS targets defined by group-level functional connectivity (grp FC), average of individual’s functional connectivity (ind FC), and atlas coordinates (atlas) at mPFC and PPC using Seedmap (top) and Seed (bottom) approaches to describe the hippocampal time series. 
+
+![Hippocampalnetwork](images/fconn_target_distributions_annot.png)
+
+
+
+
 
 ##
 
